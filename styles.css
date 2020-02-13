@@ -1,0 +1,48 @@
+body {
+	margin: 0;
+	text-align: left;
+	font-family: "Roboto", "Poppins",
+	"Montserrat"	
+}
+
+.main-text { 
+	font-family: "Roboto";
+	font-size: 1.125rem;
+}
+
+.author-text { 
+   font-family: "Poppins";
+   color:#393e46;
+   fontsize: 1.125rem;
+}
+
+.top-container{
+	background-color: #E4FPF5;
+	position: relative;
+	paddiing-top: 100px;
+	text-align: center;
+}
+
+.profile-container{
+	background-color: #fff;
+	text-align: center;
+}
+
+.middle-container{
+	background-color: green;
+	margin: 100px 0;
+}
+
+.bottom-container{
+	background-color: blue;
+	margin: 50px 0;
+}
+
+.blog-container{
+	width: 1140px;
+	margin: 20px auto
+}
+
+
+
+
